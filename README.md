@@ -16,7 +16,7 @@ Feel free to reach out to hrishikesh036@gmail.com
 
 ## 1. Python Installation
 
-1. First check if python is already installed. In your terminal (command prompt), type ‘python --version’ and ‘python3 --version’. If python is installed, it’ll show the version. If not installed, then you’ll get an error saying “command not found”. For our sessions, we'll be using python3.
+1. First check if python is already installed. In your terminal (command prompt), type `python --version` and `python3 --version`. If python is installed, it’ll show the version. If not installed, then you’ll get an error saying “command not found”. For our sessions, we'll be using python3.
 
 <p align="center">
   <img src="readmeImages/pythonVersion.png"/>
@@ -40,3 +40,10 @@ Feel free to reach out to hrishikesh036@gmail.com
   <a>Figure 2.1: Checking if pip is installed</a>
   <br><br>
 </p>
+
+2. If this gives an error, go to the directory where python is installed. Then go to *bin* directory there. A sample path to one such *bin* directory can be: *"/usr/local/opt/python@3.8/bin"*. Check if there is a file named `pip` or `pip3`. If yes, you'll need to set PATH environment variable.
+
+3. If you don’t have pip, some resources for installation:<br>
+https://stackoverflow.com/a/12476379<br>
+https://www.geeksforgeeks.org/how-to-install-pip-on-windows/<br>
+https://pip.pypa.io/en/stable/installation/

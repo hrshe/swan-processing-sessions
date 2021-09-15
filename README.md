@@ -100,10 +100,19 @@ You can also open the python notebooks on Google Colab:
   <img src="readmeImages/googleColabNotebook.png"/>
 </p>
 <p align="center">
-  <a>Figure 3.1: Google Colab Notebook</a>
+  <a>Figure 3.3: Google Colab Notebook</a>
   <br><br>
 </p>
 
 6. In our excercises, we'll be using some data files. For example, in Sec. 4.4 of `session-0/introduction.ipynb`, you'll need `simulated_pulse.image` data file. First download these data files from [GitHub repository](https://github.com/hrshe/swan-processing-sessions). 
-7. In your Google Colab, click on the <i class="far fa-folder"></i> folder icon.
+
+<p align="center">
+  <img src="readmeImages/fileUploadSteps.png"/>
+</p>
+<p align="center">
+  <a>Figure 3.3: Google Colab Upload File</a>
+  <br><br>
+</p>
+
+7. In your Google Colab, click on the folder icon(<img src="readmeImages/folderIcon.png" width="15" height="13">). Then click on file upload icon (<img src="readmeImages/fileUpload.svg" width="15" height="13">), browse to the files on your local machine and upload. Check whether the path where the file is uploaded matches the path given in the code. You are then ready to play around with the uploaded data!!
 

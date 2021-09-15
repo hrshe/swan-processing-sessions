@@ -93,7 +93,7 @@ You can also open the python notebooks on Google Colab:
 
 1. Visit Google Colab: https://colab.research.google.com/
 2. File &#8594; Open Notebook &#8594; GitHub
-3. Enter GitHub url: https://github.com/hrshe/swan-processing-sessions and click on search (&#x1F50D; icon)
+3. Enter GitHub url: https://github.com/hrshe/swan-processing-sessions and click on search icon(<img src="readmeImages/searchIcon.png" width="15" height="13">)
 4. In Repository, select `hrshe/swan-processing-sessions`. Select `main` branch.
 5. `session-0/introduction.ipynb` will now be listed. Open the project by clicking on it. You can now edit and run the cells! You might also want to add the notebook to your Google Drive. 
 <p align="center">
@@ -116,3 +116,5 @@ You can also open the python notebooks on Google Colab:
 
 7. In your Google Colab, click on the folder icon(<img src="readmeImages/folderIcon.png" width="15" height="13">). Then click on file upload icon (<img src="readmeImages/fileUpload.png" width="15" height="13">), browse to the files on your local machine and upload. Check whether the path where the file is uploaded matches the path given in the code. You are then ready to play around with the uploaded data!!
 
+
+## You can find read-only pdf and html versions of the Jupyter Notebook in other_formats folder as well!

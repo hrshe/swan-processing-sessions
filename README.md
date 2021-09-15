@@ -72,7 +72,7 @@ Just run `pip install notebook`. More info here: <br>https://jupyter.org/install
 Once you see the Jupyter notebook startup page, just browse to the project file location and open the project.
 
 <p align="center">
-  <img src="readmeImages/pynbHomepage.png"/>
+  <img src="readmeImages/jupyterProject.png"/>
 </p>
 <p align="center">
   <a>Figure 2.3: Jupyter project</a>
@@ -82,3 +82,17 @@ Once you see the Jupyter notebook startup page, just browse to the project file 
 You are ready to go... Start exploring!
 
 ## 3. Google Colab
+You can also open the python notebooks on Google Colab:
+<p align="center">
+  <img src="readmeImages/googleColabSetup.png"/>
+</p>
+<p align="center">
+  <a>Figure 3.1: Google Colab Setup</a>
+  <br><br>
+</p>
+
+1. Visit Google Colab: https://colab.research.google.com/
+2. File &#8594; Open Notebook &#8594; GitHub
+3. Enter GitHub url: https://github.com/hrshe/swan-processing-sessions and click on search (&#x1F50D; icon)
+4. In Repository, select `hrshe/swan-processing-sessions`. Select `main` branch.
+5. `session-0/introduction.ipynb` will now be listed. Open the project by clicking on it.

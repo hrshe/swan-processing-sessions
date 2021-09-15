@@ -95,4 +95,15 @@ You can also open the python notebooks on Google Colab:
 2. File &#8594; Open Notebook &#8594; GitHub
 3. Enter GitHub url: https://github.com/hrshe/swan-processing-sessions and click on search (&#x1F50D; icon)
 4. In Repository, select `hrshe/swan-processing-sessions`. Select `main` branch.
-5. `session-0/introduction.ipynb` will now be listed. Open the project by clicking on it.
+5. `session-0/introduction.ipynb` will now be listed. Open the project by clicking on it. You can now edit and run the cells! You might also want to add the notebook to your Google Drive. 
+<p align="center">
+  <img src="readmeImages/googleColabNotebook.png"/>
+</p>
+<p align="center">
+  <a>Figure 3.1: Google Colab Notebook</a>
+  <br><br>
+</p>
+
+6. In our excercises, we'll be using some data files. For example, in Sec. 4.4 of `session-0/introduction.ipynb`, you'll need `simulated_pulse.image` data file. First download these data files from [GitHub repository](https://github.com/hrshe/swan-processing-sessions). 
+7. In your Google Colab, click on the <i class="far fa-folder"></i> folder icon.
+

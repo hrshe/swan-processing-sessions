@@ -114,5 +114,5 @@ You can also open the python notebooks on Google Colab:
   <br><br>
 </p>
 
-7. In your Google Colab, click on the folder icon(<img src="readmeImages/folderIcon.png" width="15" height="13">). Then click on file upload icon (<img src="readmeImages/fileUpload.svg" width="15" height="13">), browse to the files on your local machine and upload. Check whether the path where the file is uploaded matches the path given in the code. You are then ready to play around with the uploaded data!!
+7. In your Google Colab, click on the folder icon(<img src="readmeImages/folderIcon.png" width="15" height="13">). Then click on file upload icon (<img src="readmeImages/fileUpload.png" width="15" height="13">), browse to the files on your local machine and upload. Check whether the path where the file is uploaded matches the path given in the code. You are then ready to play around with the uploaded data!!
 

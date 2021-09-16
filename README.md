@@ -13,7 +13,7 @@ Feel free to reach out to hrishikesh036@gmail.com
 1. [Python Installation](#1-python-installation)
 2. [pip](#2-pip)
 3. [Jupyter Notebook Installation](#3-jupyter-notebook-installation)
-3. [Google Colab](#3-google-colab)
+4. [Google Colab](#4-google-colab)
 
 ## 1. Python Installation
 
@@ -49,7 +49,7 @@ https://stackoverflow.com/a/12476379<br>
 https://www.geeksforgeeks.org/how-to-install-pip-on-windows/<br>
 https://pip.pypa.io/en/stable/installation/
 
-## 2. Jupyter Notebook Installation
+## 3. Jupyter Notebook Installation
 1. Once you have pip, you can now easily install jupyter notebook.
 Just run `pip install notebook`. More info here: <br>https://jupyter.org/install.html<br>
 2. To run the notebook, go to the directory where you want to start a project and run the following command on the terminal (or command prompt): `jupyter notebook`. On successfull startup, you'll see the following:
@@ -81,7 +81,7 @@ Once you see the Jupyter notebook startup page, just browse to the project file 
 
 You are ready to go... Start exploring!
 
-## 3. Google Colab
+## 4. Google Colab
 You can also open the python notebooks on Google Colab:
 <p align="center">
   <img src="readmeImages/googleColabSetup.png"/>
